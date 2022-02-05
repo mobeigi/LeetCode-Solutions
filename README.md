@@ -10,7 +10,7 @@
 ## Description
 This repo contains some of my solutions from LeetCode.  
 Only **hard** difficulty solutions are posted here.  
-Language used will almost always be either **Java**, **Python** or **C++**
+Language used will almost always be either **Java**, **Kotlin**, **Python** or **C++**
 
 ## Profile Page
 You can find my profile page here:  
