@@ -5,8 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms/10 - Regular Expression Matching/10 - Regular Expression Matching.iml" filepath="$PROJECT_DIR$/Algorithms/10 - Regular Expression Matching/10 - Regular Expression Matching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/23 - Merge k Sorted Lists/23 - Merge k Sorted Lists.iml" filepath="$PROJECT_DIR$/Algorithms/23 - Merge k Sorted Lists/23 - Merge k Sorted Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/30 - Substring with Concatenation of All Words/30 - Substring with Concatenation of All Words.iml" filepath="$PROJECT_DIR$/Algorithms/30 - Substring with Concatenation of All Words/30 - Substring with Concatenation of All Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/32 - Longest Valid Parentheses/32 - Longest Valid Parentheses.iml" filepath="$PROJECT_DIR$/Algorithms/32 - Longest Valid Parentheses/32 - Longest Valid Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/4 - Median of Two Sorted Arrays/4 - Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/Algorithms/4 - Median of Two Sorted Arrays/4 - Median of Two Sorted Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode-solutions.iml" filepath="$PROJECT_DIR$/.idea/leetcode-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/432 - All O one Data Structure/432 - All O one Data Structure.iml" filepath="$PROJECT_DIR$/Algorithms/432 - All O one Data Structure/432 - All O one Data Structure.iml" />
     </modules>
   </component>
 </project>
