@@ -48,20 +48,3 @@ class Solution {
         return tails
     }
 }
-
-fun main() {
-    val envelopes = arrayOf(
-        intArrayOf(2, 3),
-        intArrayOf(3, 4), intArrayOf(3, 3),
-        intArrayOf(4, 6),
-        intArrayOf(5, 5), intArrayOf(5, 4),
-        intArrayOf(6, 7), intArrayOf(6, 5), intArrayOf(6, 4),
-        intArrayOf(7, 8), intArrayOf(7, 7),
-        intArrayOf(8, 9),
-        intArrayOf(9, 10), intArrayOf(9, 9),
-        intArrayOf(10, 11)
-    )
-
-    val result = Solution().maxEnvelopes(envelopes)
-    println("Max envelopes: $result") // Expected: 8
-}
